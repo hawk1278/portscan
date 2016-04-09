@@ -1,4 +1,3 @@
-__author__ = 'rich'
 """
 Port scanner tool testing
 """
