@@ -1,6 +1,5 @@
 """
 Port scanner tool testing
-16 April 2016
 """
 
 import optparse
